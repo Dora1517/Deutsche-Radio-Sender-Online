@@ -1,0 +1,40 @@
+-------------------------------------Livestream Adressen der Ard--------------------------------------
+
+Radio Bremen
+
+Bremen Next:
+
+https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3 (verschlüsselt).
+http://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3 (unverschlüsselt)
+
+Bremen 1 (Low-Quality-Livestreams) Radio Live
+
+https://icecast.radiobremen.de/rb/bremeneins/live/mp3/64/stream.mp3 (verschlüsselt)
+http://icecast.radiobremen.de/rb/bremeneins/live/mp3/64/stream.mp3 (unverschlüsselt)
+
+Beat-Club:
+
+https://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3
+http://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3
+
+Bremen 1 Spezial:
+
+https://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3
+http://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3
+
+Bremen 2(Livestreams mit einer geringeren Bandbreite):
+
+https://icecast.radiobremen.de/rb/bremeneins/live/mp3/64/stream.mp3 (verschlüsselt)
+http://icecast.radiobremen.de/rb/bremeneins/live/mp3/64/stream.mp3 (unverschlüsselt)
+
+Webchannel Beat-Club:
+
+https://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3.
+http://icecast.radiobremen.de/rb/webchannel6/mp3/128/stream.mp3
+
+Spezial:
+
+https://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3
+http://icecast.radiobremen.de/rb/webchannel5/mp3/128/stream.mp3
+
+    
